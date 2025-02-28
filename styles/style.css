@@ -146,7 +146,7 @@ body {/* характеристики body */
     
         .apresentacao {
             flex-direction: column-reverse;
-            padding: 5%;
+            padding: 6%;
         }
 
         .apresentacao__conteudo {
